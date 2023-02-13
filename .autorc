@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "burakcbdn",
+  "repo": "container-x0hgoay",
+  "name": "burakcbdn",
+}
